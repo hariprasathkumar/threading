@@ -123,8 +123,7 @@ ON running you would see the Stuff in action:
 
 
 <<If you had reached here, its a good bet that you are trying a version of 
-	the same; It may not be much, I do hope it helps - after all without the 
-	web I am a nobody ; Happy coding!! >>
+	the same; It may not be much, I do hope it helps; Happy coding!! >>
 
 
  
